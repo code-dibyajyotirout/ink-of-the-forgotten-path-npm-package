@@ -1,0 +1,20 @@
+# Source & development files
+src/
+tests/
+backend/
+public/
+.github/
+.git/
+
+# Config files
+tsconfig*.json
+tsup.config.ts
+eslint.config.mjs
+vitest.config.*
+next.config.*
+docker-compose.yml
+Dockerfile
+.gitignore
+.npmrc
+.env*
+*.log
